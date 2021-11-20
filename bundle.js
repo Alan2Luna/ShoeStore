@@ -562,7 +562,7 @@ eval("module.exports = __webpack_require__.p + \"62b8306c4e8516e1e090.png\";\n\n
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/";
+/******/ 		__webpack_require__.p = "./";
 /******/ 	})();
 /******/ 	
 /************************************************************************/
